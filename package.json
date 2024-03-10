@@ -1,6 +1,6 @@
 {
   "name": "pepetea",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/pepeoliveira/pepetea.git"
@@ -9,6 +9,7 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "integer-tea": "^0.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
@@ -38,5 +39,4 @@
       "last 1 safari version"
     ]
   }
-
 }
